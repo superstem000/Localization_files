@@ -1,0 +1,3 @@
+Positive y direction is '0' in DOA
+
+respeaker index 2 = positive x, respeaker index 3 = negative x
